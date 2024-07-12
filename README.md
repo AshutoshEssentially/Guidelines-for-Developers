@@ -31,8 +31,8 @@
 9. **Use interfaces to accommodate dependency injection.**
 
 10. **ChatGPT often does not have the full context of the code you are asking for.**
-   - The code given might not fully satisfy your requirement but the logic may be correct
-   - Hence, try to avoid copy-pasting and prefer to write the code yourself
+      - The code given might not fully satisfy your requirement but the logic may be correct
+      - Hence, try to avoid copy-pasting and prefer to write the code yourself
 
 11. **Only add comments wherever required.**
    - Before pushing, make sure you remove all the unused, wrong, and commented code
