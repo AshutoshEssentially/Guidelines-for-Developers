@@ -17,14 +17,14 @@
 4. **As soon as the code is pushed, ask other team members to immediately take a pull and continue their work.**
 
 5. **Do not blindly copy even your code**
-  - There are instances where 2 different functions have similar logic but slightly different implementations.
-  - At such time we are tempted to copy the code from the previously implemented function and paste it to create the second function.
-  - In such cases, we tend to miss small details which later turn into a bug that takes an hour to debug.
-  - So every time we copy any code, we should be extremely careful.
+     - There are instances where 2 different functions have similar logic but slightly different implementations.
+     - At such time we are tempted to copy the code from the previously implemented function and paste it to create the second function.
+     - In such cases, we tend to miss small details which later turn into a bug that takes an hour to debug.
+     - So every time we copy any code, we should be extremely careful.
 
 7. **Before starting any code, make sure you have the input and output requirements confirmed:**
-   - Document it **ON PAPER**
-   - Get it reviewed by your assignee
+      - Document it **ON PAPER**
+      - Get it reviewed by your assignee
 
 8. **Create a DAG structure ON PAPER to determine dependent and independent tasks for every project.**
 
