@@ -35,6 +35,6 @@
       - Hence, try to avoid copy-pasting and prefer to write the code yourself
 
 11. **Only add comments wherever required.**
-   - Before pushing, make sure you remove all the unused, wrong, and commented code
+      - Before pushing, make sure you remove all the unused, wrong, and commented code
 
 11. **Every function should have comments describing the input, the functionality, and the output.**
